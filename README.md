@@ -1,4 +1,4 @@
-<h1 align="center">Nexter</h1>
+<h1 align="center">Natours</h1>
 
 <p align="center"><img src="https://socialify.git.ci/jovan999/Natours_Travel/image?font=Raleway&forks=1&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" alt="project"></p>
 
