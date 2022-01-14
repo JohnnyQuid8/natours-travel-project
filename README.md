@@ -1,28 +1,26 @@
-<h1 align="center">Nexter</h1>
+<h1 align="center" id="title">Natours</h1>
 
-<p align="center"><img src="https://socialify.git.ci/jovan999/Nexter_RealEstate/image?font=Raleway&amp;forks=1&amp;issues=1&amp;language=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project"></p>
+<p align="center"><img src="https://socialify.git.ci/jovansmiljanic/Natours_Travel/image?font=KoHo&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p>Real Estate company landing page. Used only HTML and CSS/SASS.</p>
+<p id="description">Traveling agency landing page. Made with HTML and CSS/SCSS only.</p>
 
 <h2>🚀 Demo</h2>
 
-[https://nexter-css.netlify.app/](https://nexter-css.netlify.app/)
+[https://advanced-css-natours.netlify.app/](https://advanced-css-natours.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://api.pikwy.com/web/6147af2ac3581b2d7f2044dc.jpg" alt="shields" width="100%" height="400/">
+<img src="https://ik.imagekit.io/benntsopnyab/natours_U2R-3bjyIC.png?ik-sdk-version=javascript-1.4.3&amp;updatedAt=1641465509877" alt="project-screenshot" width="100%" height="400/">
 
-  
-  
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone repository:</p>
+<p>1. 1. Clone repository:</p>
 
 ```
-git clone https://github.com/jovan999/Nexter_RealEstate
+git clone https://github.com/jovan999/Trillo_Hotels
 ```
 
-<p>2. Enter directory:</p>
+<p>2. 2. Enter directory:</p>
 
 ```
 cd my-repo-name
@@ -34,6 +32,6 @@ cd my-repo-name
 
 Technologies used in the project:
 
-*   Css Grid
 *   HTML
 *   CSS
+*   SCSS
